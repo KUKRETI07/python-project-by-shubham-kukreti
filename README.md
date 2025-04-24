@@ -5,6 +5,8 @@
 This project explores and analyzes the Google Play Store dataset to uncover trends, patterns, and insights about apps —
 including their ratings, categories, types (free/paid), install counts, and reviews. The goal was to extract meaningful business insights using data analysis and visualization.
 
+![Image](https://github.com/KUKRETI07/python-project-by-shubham-kukreti/blob/4dc5b8b1e10d3320302d29a69885c8d16e2b4959/Screenshot%20(62).png)
+
 # Tools & Technologies
 
  * Language: Python 
